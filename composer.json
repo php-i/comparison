@@ -1,6 +1,6 @@
 {
   "name": "php-i/comparison",
-  "description": "Objects comparison",
+  "description": "PHP I: Objects comparison",
   "type": "library",
   "license": "MIT",
   "keywords": [

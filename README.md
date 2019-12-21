@@ -30,6 +30,6 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## License
 
-- `PHP I: Love` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev].
+- `PHP I: Comparison` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev].
 
 [Anton Komarev]: https://komarev.com
