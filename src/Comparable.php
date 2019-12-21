@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace I\Comparison;
 
-interface Comparable extends Equalable
+interface Comparable
 {
     /**
      * Get integer identifier result of comparison of $this and $that.
